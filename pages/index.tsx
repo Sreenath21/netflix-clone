@@ -19,7 +19,7 @@ interface Props {
   documentaries: Movie[];
 }
 
-const Home: NextPage<Props> = ({
+const Home = ({
   netflixOriginals,
   trendingNow,
   topRated,
