@@ -13,7 +13,6 @@ function Header() {
         setIsScrolled(false);
       }
     };
-    console.log("useEffect");
 
     window.addEventListener("scroll", handleScroll);
 
