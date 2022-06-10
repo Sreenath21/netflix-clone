@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-import { Movie } from "../../typings";
+import { Movie } from "../typings";
 
 interface Props {
   // movie: Movie | DocumentDate
